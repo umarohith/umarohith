@@ -24,18 +24,6 @@
     <!-- Crosshairs -->
     <line x1="110" y1="20" x2="110" y2="180" stroke="#00F0FF" stroke-width="0.5" opacity="0.3" stroke-dasharray="5 5" />
     <line x1="30" y1="100" x2="190" y2="100" stroke="#00F0FF" stroke-width="0.5" opacity="0.3" stroke-dasharray="5 5" />
-
-    <!-- Outer Ring -->
-    <circle cx="110" cy="100" r="65" fill="none" stroke="#D9383A" stroke-width="2" opacity="0.6" />
-    <!-- Segmented Ring -->
-    <circle cx="110" cy="100" r="55" fill="none" stroke="#00F0FF" stroke-width="5" stroke-dasharray="12 8" />
-    <!-- Middle Ring -->
-    <circle cx="110" cy="100" r="40" fill="none" stroke="#00F0FF" stroke-width="2" opacity="0.8" />
-    <!-- Inner Ring -->
-    <circle cx="110" cy="100" r="28" fill="none" stroke="#FFD700" stroke-width="1.5" />
-    <!-- Glowing Core -->
-    <circle cx="110" cy="100" r="18" fill="#00F0FF" opacity="0.4" />
-    <circle cx="110" cy="100" r="12" fill="#FFFFFF" />
   </g>
 
   <!-- Typography -->
