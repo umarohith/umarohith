@@ -1,57 +1,65 @@
 <div align="center">
 
-<!-- JARVIS HUD / Arc Reactor Glow Animated GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF4djR5bzYzbHBidDdrb3k1azFhcjBsdm9jNXphdmw1bzF2MWF2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U23rlGy377AbS/giphy.gif" width="400" alt="JARVIS HUD Loading..." />
+<!-- Pure visual Iron Man Arc Reactor Glowing GIF -->
+<img src="https://media.giphy.com/media/iYVneIXJQ3ufS/giphy.gif" width="400" alt="Arc Reactor" />
 
 <br><br>
 
-# 🤖 `JARVIS: ACCESS_GRANTED`
-### 🦾 Welcome to the Stark Database Profile of: **Uma Rohith Maheswarapu**
+# 👋 Hi, I'm <span style="color:#D9383A">Uma Rohith</span> <span style="color:#FFD700">Maheswarapu</span>
 
-**B.Tech Computer Science Student | Full Stack Developer | Cloud & DevOps Enthusiast**
+### 🎓 B.Tech Computer Science Student | 💻 Full Stack Developer | ☁️ Cloud Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Initializing+Stark+Protocols...;Analyzing+Systems...;Java+%26+Backend+Engineer;Full+Stack+Development+Specialist;%22I+am+Iron+Man.%22+-+Tony+Stark" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;Cloud+Computing+Enthusiast;Competitive+Programmer;Always+Learning+New+Things" />
 
 </div>
 
 ---
 
-## 🖥️ Stark Industries Core Diagnostics: About Me
+## 🚀 About Me
 
 <p align="right">
-  <img align="right" alt="Iron Man Suit Up" width="280" src="https://media.giphy.com/media/L5aC2b3jA0880/giphy.gif">
+  <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/L5aC2b3jA0880/giphy.gif">
 </p>
 
-- **`⚡ Identity`** | Pursuing **B.Tech in Computer Science Engineering**
-- **`🦾 Power Source`** | Passionate about **Software Development, DSA, and Cloud Computing**
-- **`⚙️ System Upgrades (Exploring)`** |
-  - System Design & Scalability
-  - AWS & GCP Cloud Architecture
-  - Modern Full Stack Development
-  - DevOps & CI/CD Pipelines
-- **`🎯 Mission Objective`** | Become a highly skilled Software Engineer and build scalable systems.
-- **`💡 Jarvis Log`** | *"I enjoy solving complex algorithmic challenges and engineering real-world projects."*
+🎓 Pursuing **B.Tech in Computer Science Engineering**
+
+💻 Passionate about **Software Development, DSA, and Cloud Computing**
+
+🌱 Currently exploring:
+
+* System Design
+* AWS & Cloud Computing
+* Full Stack Development
+* DevOps & CI/CD
+
+🎯 Goal:
+
+* Become a highly skilled Software Engineer and build scalable systems.
+
+⚡ Fun Fact:
+
+* I enjoy solving algorithmic problems and building real-world projects.
 
 <br>
 
 ---
 
-## 🛠️ Weapons Systems & Armor Integration (Tech Stack)
+## 🛠️ Tech Stack
 
-| Component | Integrated Technologies / Frameworks |
+| Category | Technologies |
 | :--- | :--- |
-| 🦾 **Core Compiler (Languages)** | <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,kotlin" /> |
-| 🎨 **HUD & Interface (Frontend)** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular" /> |
-| ⚙️ **Thruster Engines (Backend)** | <img src="https://skillicons.dev/icons?i=java,nodejs,firebase" /> |
-| 🗄️ **Memory Storage (Databases)** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
-| ☁️ **Satellites & Deployment (Cloud/DevOps)** | <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,vercel" /> |
-| 🔧 **Workshop Tools (Dev Tools)** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+| 💻 **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,kotlin" /> |
+| 🎨 **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular" /> |
+| ⚙️ **Backend Development** | <img src="https://skillicons.dev/icons?i=java,nodejs,firebase" /> |
+| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
+| ☁️ **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,vercel" /> |
+| 🔧 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 
 <br>
 
 ---
 
-## 📊 Stark Industries System Diagnostics (GitHub Stats)
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -70,7 +78,7 @@
 
 ---
 
-## 📈 Core Reactor Output (Activity Graph)
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -80,7 +88,7 @@
 
 ---
 
-## 🏆 Jarvis System Badges (GitHub Achievements)
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -90,7 +98,7 @@
 
 ---
 
-## 🐍 Nano-bot Repair Grid (Contribution Snake)
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -100,16 +108,16 @@
 
 ---
 
-## 📫 Transmission Terminal (Connect With Me)
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/umarohith">
-  <img src="https://img.shields.io/badge/Forge-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=D9383A&labelColor=FFD700" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=D9383A&labelColor=FFD700" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/Comms-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=D9383A&labelColor=FFD700" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=D9383A&labelColor=FFD700" alt="LinkedIn" />
 </a>
 
 </div>
