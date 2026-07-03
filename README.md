@@ -24,6 +24,18 @@
     <!-- Crosshairs -->
     <line x1="110" y1="20" x2="110" y2="180" stroke="#00F0FF" stroke-width="0.5" opacity="0.3" stroke-dasharray="5 5" />
     <line x1="30" y1="100" x2="190" y2="100" stroke="#00F0FF" stroke-width="0.5" opacity="0.3" stroke-dasharray="5 5" />
+
+    <!-- Outer Ring -->
+    <circle cx="110" cy="100" r="65" fill="none" stroke="#D9383A" stroke-width="2" opacity="0.6" />
+    <!-- Segmented Ring -->
+    <circle cx="110" cy="100" r="55" fill="none" stroke="#00F0FF" stroke-width="5" stroke-dasharray="12 8" />
+    <!-- Middle Ring -->
+    <circle cx="110" cy="100" r="40" fill="none" stroke="#00F0FF" stroke-width="2" opacity="0.8" />
+    <!-- Inner Ring -->
+    <circle cx="110" cy="100" r="28" fill="none" stroke="#FFD700" stroke-width="1.5" />
+    <!-- Glowing Core -->
+    <circle cx="110" cy="100" r="18" fill="#00F0FF" opacity="0.4" />
+    <circle cx="110" cy="100" r="12" fill="#FFFFFF" />
   </g>
 
   <!-- Typography -->
@@ -42,7 +54,7 @@
 </div>
 
 <!-- Animated side banners (glowing India flags) -->
-<img align="left" src="https://raw.githubusercontent.com/yashg0ld/yashg0ld/main/assets/indianflag.gif" width="10%" style="display:inline;"><img align="right" src="https://raw.githubusercontent.com/yashg0ld/yashg0ld/main/assets/indianflag.gif" width="10%" style="display:inline;">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.gif" width="10%" style="display:inline;"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.gif" width="10%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Uma Rohith Maheswarapu</h1>
 <h3 align="center">A passionate Programmer and Cloud Enthusiast</h3>
@@ -90,45 +102,49 @@
 - ⚡ Fun fact: **I enjoy solving complex algorithmic problems and building real-world projects**
 
 <br>
-<h3 align="left">Connect with me:</h3>
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 15px;">
+<h3 align="center">Connect with me:</h3>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" /></a>
   <a href="https://github.com/umarohith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" /></a>
 </div>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-- Backend
-<p align="left">
+<p align="center"><b>Backend</b></p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,nodejs,firebase,py,c,kotlin" />
   </a>
 </p>
+<br>
 
-- Frontend
-<p align="left">
+<p align="center"><b>Frontend</b></p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,bootstrap,angular" />
   </a>
 </p>
+<br>
 
-- Database
-<p align="left">
+<p align="center"><b>Database</b></p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
+<br>
 
-- Cloud Servers
-<p align="left">
+<p align="center"><b>Cloud Servers</b></p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,vercel" />
   </a>
 </p>
+<br>
 
-- Tools
-<p align="left">
+<p align="center"><b>Tools</b></p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,jenkins" />
   </a>
@@ -136,25 +152,10 @@
 
 <br/>
 
-<h3 align="left">Trophies:</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umarohith&theme=radical&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umarohith&theme=radical&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
-</div>
-<br><br>
-
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umarohith&show_icons=true&bg_color=0D0D11&title_color=FFD700&text_color=E0E0E6&icon_color=00F0FF&border_color=D9383A" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarohith&bg_color=0D0D11&fire=FFD700&ring=D9383A&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=E0E0E6&sideLabels=E0E0E6&dates=999999&border=D9383A" />
-</div>
-<br><br>
-
-<h3 align="left">LeetCode Stats:</h3>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/umarohith?colors=0D0D11,15151B,FFD700,E0E0E6,D9383A,FFD700,00F0FF,FF6B6B" />
+  <img src="https://streak-stats.demolab.com/?user=umarohith&background=0D0D11&fire=FFD700&ring=D9383A&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=E0E0E6&sideLabels=E0E0E6&dates=999999&border=D9383A" />
 </div>
 <br><br>
 
