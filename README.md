@@ -53,8 +53,8 @@
 </svg>
 </div>
 
-<!-- Animated side banners (glowing Arc Reactors) -->
-<img align="left" src="https://media.giphy.com/media/iYVneIXJQ3ufS/giphy.gif" width="10%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/iYVneIXJQ3ufS/giphy.gif" width="10%" style="display:inline;">
+<!-- Animated side banners (glowing India flags) -->
+<img align="left" src="https://raw.githubusercontent.com/yashg0ld/yashg0ld/main/assets/indianflag.gif" width="10%" style="display:inline;"><img align="right" src="https://raw.githubusercontent.com/yashg0ld/yashg0ld/main/assets/indianflag.gif" width="10%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Uma Rohith Maheswarapu</h1>
 <h3 align="center">A passionate Programmer and Cloud Enthusiast</h3>
@@ -63,7 +63,6 @@
  <img src="https://komarev.com/ghpvc/?username=umarohith&label=Profile%20views&color=D9383A&style=flat" alt="uma rohith maheswarapu" /> 
 </p>
 
-<!-- Techstack Icon Row 1 -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/>
@@ -75,7 +74,6 @@
 
 <br>
 
-<!-- Techstack Icon Row 2 -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50"/>
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50"/>
@@ -93,7 +91,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨💻 All of my projects are available on my GitHub
+- 👨‍💻 All of my projects are available on my GitHub: [github.com/umarohith](https://github.com/umarohith)
 
 - 💬 Ask me about **Java, Python, NodeJS and Cloud Computing**
 
