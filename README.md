@@ -1,56 +1,6 @@
 <!-- Custom Inline SVG Iron Man / Stark Tech Banner -->
 <div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200" style="background:#0D0D11; border-radius:10px;">
-  <!-- Background Grid Pattern -->
-  <defs>
-    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1A1A22" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grid)" />
-
-  <!-- High-tech HUD border -->
-  <rect x="10" y="10" width="780" height="180" fill="none" stroke="#D9383A" stroke-width="2" rx="8" />
-  <rect x="15" y="15" width="770" height="170" fill="none" stroke="#00F0FF" stroke-width="1" stroke-dasharray="20 10" opacity="0.4" rx="6" />
-
-  <!-- Corner tech accents -->
-  <path d="M 12 30 L 12 12 L 30 12" fill="none" stroke="#FFD700" stroke-width="3" />
-  <path d="M 788 30 L 788 12 L 770 12" fill="none" stroke="#FFD700" stroke-width="3" />
-  <path d="M 12 170 L 12 188 L 30 188" fill="none" stroke="#FFD700" stroke-width="3" />
-  <path d="M 788 170 L 788 188 L 770 188" fill="none" stroke="#FFD700" stroke-width="3" />
-
-  <!-- Glowing Arc Reactor -->
-  <g transform="translate(10, 0)">
-    <!-- Crosshairs -->
-    <line x1="110" y1="20" x2="110" y2="180" stroke="#00F0FF" stroke-width="0.5" opacity="0.3" stroke-dasharray="5 5" />
-    <line x1="30" y1="100" x2="190" y2="100" stroke="#00F0FF" stroke-width="0.5" opacity="0.3" stroke-dasharray="5 5" />
-
-    <!-- Outer Ring -->
-    <circle cx="110" cy="100" r="65" fill="none" stroke="#D9383A" stroke-width="2" opacity="0.6" />
-    <!-- Segmented Ring -->
-    <circle cx="110" cy="100" r="55" fill="none" stroke="#00F0FF" stroke-width="5" stroke-dasharray="12 8" />
-    <!-- Middle Ring -->
-    <circle cx="110" cy="100" r="40" fill="none" stroke="#00F0FF" stroke-width="2" opacity="0.8" />
-    <!-- Inner Ring -->
-    <circle cx="110" cy="100" r="28" fill="none" stroke="#FFD700" stroke-width="1.5" />
-    <!-- Glowing Core -->
-    <circle cx="110" cy="100" r="18" fill="#00F0FF" opacity="0.4" />
-    <circle cx="110" cy="100" r="12" fill="#FFFFFF" />
-  </g>
-
-  <!-- Typography -->
-  <!-- Name -->
-  <text x="240" y="80" font-family="'Courier New', Courier, monospace" font-size="34" font-weight="bold" fill="#D9383A" letter-spacing="2">UMA ROHITH</text>
-  <text x="240" y="115" font-family="'Courier New', Courier, monospace" font-size="28" font-weight="bold" fill="#FFD700" letter-spacing="1">MAHESWARAPU</text>
-  
-  <!-- Subtitle -->
-  <text x="240" y="150" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="600" fill="#00F0FF" letter-spacing="1.5">FULL STACK DEVELOPER | CLOUD ENGINEER</text>
-
-  <!-- Animated details / scanline simulation using SVG animations -->
-  <line x1="240" y1="165" x2="750" y2="165" stroke="#D9383A" stroke-width="2">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" />
-  </line>
-</svg>
+  <img src="banner.svg" width="100%" alt="Uma Rohith Maheswarapu Banner" />
 </div>
 
 <!-- Animated side banners (glowing India flags) -->
